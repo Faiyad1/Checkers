@@ -71,11 +71,15 @@ java -jar build/libs/I21-1.0.jar
 ## Project Structure
 
 ```
-src/
-  main/java/Checkers/
-    App.java        # Main game class
-  test/java/Checkers/
-    SampleTest.java # Unit tests
+├── images/
+│   └── Gameplay.png        # Documentation image
+├── src/
+│   ├── main/java/Checkers/
+│   │   └── App.java        # Main game class
+│   └── test/java/Checkers/
+│       └── SampleTest.java # Unit tests
+├── build.gradle            # Build configuration
+└── README.md
 ```
 
 ## Testing
