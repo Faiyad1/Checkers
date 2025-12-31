@@ -76,7 +76,7 @@ java -jar build/libs/I21-1.0.jar
 
 ```
 ├── images/
-│   └── Gameplay.png        # Documentation image
+│   └── gameplay_image.png  # Documentation image
 ├── src/
 │   ├── main/java/Checkers/
 │   │   └── App.java        # Main game class
