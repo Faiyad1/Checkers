@@ -10,6 +10,10 @@ A classic Checkers (Draughts) game with smooth animation built with Java and Pro
 
 ![Gameplay](images/gameplay_image.png)
 
+## Overview
+
+The game features a graphical interface built using the Processing library, providing smooth piece animations and intuitive mouse-based controls. Players take turns moving pieces diagonally across an 8x8 board, capturing opponent pieces by jumping over them, and promoting pieces to Kings upon reaching the opposite end.
+
 ## Table of Contents
 
 - [Features](#features)
